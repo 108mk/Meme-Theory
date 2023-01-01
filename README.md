@@ -5,3 +5,4 @@
 ![alt text](https://github.com/108mk/Meme-Theory/blob/9de44ab710308beed9509e155e8e73fd4d172919/demo%20images/corona.png)
 ![alt text](https://github.com/108mk/Meme-Theory/blob/9de44ab710308beed9509e155e8e73fd4d172919/demo%20images/pushpa.png)
 ## The simple mantra of meme theory: Gene regulates Living organism, Meme regulates social behaviours and ideas.
+## Several pictures are taken from internet. I don't owe them. I must say thanks to Richard Dawkins from where the talk is inspired. I mostly consulted the book 'THE SELFISH GENE' (BY DAWKINS) and 'SAPIENS' (BY HARRARI).
